@@ -1,0 +1,10 @@
+.class
+.o
+.exe
+.bin
+.pyc
+bin/
+build/
+.project
+.classpath
+.settings
